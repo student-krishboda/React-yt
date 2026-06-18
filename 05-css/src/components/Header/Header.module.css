@@ -1,0 +1,8 @@
+.Header {
+    background-color: aquamarine;
+    padding: 5px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
